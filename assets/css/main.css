@@ -1311,7 +1311,7 @@ input, select, textarea {
 			#header .logo .image-cropper {
 				width: 102px;
 				height: 102px;
-				position: relative;
+				position: absolute;
 				overflow: hidden;
 				border-radius: 50%;
 			  }
